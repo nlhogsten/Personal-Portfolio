@@ -1,1 +1,1 @@
-![Surf Spot 1](HogstenPortfolio.pdf)
+![Surf Spot 1](./HogstenPortfolio.jpg)
