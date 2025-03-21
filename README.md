@@ -1,1 +1,1 @@
-![Surf Spot 1](./HogstenPortfolio.jpg)
+![Surf Spot 1](./HogstenPortfolio.png)
