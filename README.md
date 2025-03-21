@@ -1,1 +1,3 @@
-![Surf Spot 1](./HogstenPortfolio.png)
+## Link to view portfolo
+
+![Portfolio](./HogstenPortfolio.pdf)
