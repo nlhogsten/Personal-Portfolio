@@ -1,3 +1,3 @@
 ## Link to view portfolo
 
-![Portfolio](./HogstenPortfolio.pdf)
+[![Portfolio](./mosh.gif)](./HogstenPortfolio.pdf)
