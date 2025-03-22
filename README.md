@@ -1,4 +1,7 @@
 <p align="center">
-## Link to view portfolo
-[![Portfolio](./mosh.gif)](./HogstenPortfolio.pdf)
+  <h1>Click mr. cat</h1>
+  <a href="./HogstenPortfolio.pdf">
+    <img src="./mosg.gif" width="80%">
+  </a>
 </p>
+
