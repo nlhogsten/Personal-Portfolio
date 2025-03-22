@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="./HogstenPortfolio.pdf">
-    <img src="./mosh.gif" width="80%">
+    <img src="./mosh.gif" width="60%">
   </a>
 </p>
 
